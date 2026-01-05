@@ -13,6 +13,3 @@ Thumbs.db
 # Configuraciones de IDE
 .vscode/
 .idea/
-
-# Resultados locales (opcional)
-*.png
